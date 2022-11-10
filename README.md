@@ -2,11 +2,13 @@
 
 
 ## TOOLS 
+
   - jmeter
   - vs code
   - git bash
   
-##Scenario
+## Scenario
+
     -login 
     -get user list
     -Create a user
@@ -16,7 +18,7 @@
     -update the user phone number
     -delete the user
     
-##how to run the file 
+## how to run the file 
   -clone this file 
   
   -open the file in jmeter
@@ -24,19 +26,17 @@
   - and run 
   
   
-##how to generate this report
-  
+## how to generate this report
   -open git bash jmeter -n -t <.jmx file> -l <test .log file> -e -o <path to output folder>
 
-
-## Pre-requisit
+##  Pre-requisit
+  
   -java must be installed
   
   -jmeter must be installed 
   
   
-##Output of the report 
-
+## Output of the report 
 
 ![13](https://user-images.githubusercontent.com/69245641/201199738-0db30b61-639b-4dad-83a8-c099e7159b95.png)
 
