@@ -3,9 +3,9 @@
 
 ## TOOLS 
 
-  - jmeter
-  - vs code
-  - git bash
+    - jmeter
+    - vs code
+    - git bash
   
 ## Scenario
 
@@ -19,21 +19,21 @@
     -delete the user
     
 ## how to run the file 
-  -clone this file 
+    -clone this file 
   
-  -open the file in jmeter
+    -open the file in jmeter
   
-  - and run 
+    - and run 
   
   
 ## how to generate this report
-  -open git bash jmeter -n -t <.jmx file> -l <test .log file> -e -o <path to output folder>
+    -open git bash jmeter -n -t <.jmx file> -l <test .log file> -e -o <path to output folder>
 
 ##  Pre-requisit
   
-  -java must be installed
+    -java must be installed
   
-  -jmeter must be installed 
+    -jmeter must be installed 
   
   
 ## Output of the report 
