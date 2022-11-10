@@ -3,37 +3,36 @@
 
 ## TOOLS 
 
-    - jmeter
-    - vs code
-    - git bash
+   - jmeter
+   - vs code
+   - git bash
   
 ## Scenario
 
-    -login 
-    -get user list
-    -Create a user
-    -Search the newly created user by id 
-    -Search the newly created user by phone number
-    -search the newly created user by email
-    -update the user phone number
-    -delete the user
+   - login 
+   - get user list
+   - Create a user
+   - Search the newly created user by id 
+   - Search the newly created user by phone number
+   - Search the newly created user by email
+   - Update the user phone number
+   - Delete the user
     
 ## how to run the file 
-    -clone this file 
-  
-    -open the file in jmeter
-  
-    - and run 
+   
+   - Clone this file 
+   - Open the file in jmeter
+   - And run 
   
   
 ## how to generate this report
-    -open git bash jmeter -n -t <.jmx file> -l <test .log file> -e -o <path to output folder>
+   - open git bash jmeter -n -t <.jmx file> -l <test .log file> -e -o <path to output folder>
 
 ##  Pre-requisit
   
-    -java must be installed
+    - java must be installed
   
-    -jmeter must be installed 
+    - jmeter must be installed 
   
   
 ## Output of the report 
