@@ -18,7 +18,9 @@
     
 ##how to run the file 
   -clone this file 
-  -open the file in jmeter 
+  
+  -open the file in jmeter
+  
   - and run 
   
   
@@ -29,6 +31,7 @@
 
 ## Pre-requisit
   -java must be installed
+  
   -jmeter must be installed 
   
   
